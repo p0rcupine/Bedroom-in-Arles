@@ -2,15 +2,10 @@
 
 Here's a quite light and simple theme. 
 
-The main colors of the theme have been extracted from the famous [Bedroom in Arles]("http://en.wikipedia.org/wiki/Bedroom_in_Arles") painting of Vincent van Gogh. I've been using the particular color scheme for many years now and I think it is great for text editors too. 
+The main colors of the theme have been extracted from the famous [Bedroom in Arles]("http://en.wikipedia.org/wiki/Bedroom_in_Arles") painting of Vincent van Gogh. I've been using the particular color scheme for many years now and I think it is great for text editors too. Although most developers tend to use dark themes, you might want to give it a chance.
 
-Although most developers tend to use dark themes, I think this one can work for many people.
+The particular color scheme works with Sublime Text 2. It hasn't been tested with any other software or any other version of Sublime Text. 
 
-It works with Sublime Text 2.
-
-## Screenshots
-
-See the colors in a CSS and in an HTML file.
 
 ## Installation
 
