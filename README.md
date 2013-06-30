@@ -16,7 +16,7 @@ The following instructions have to do with Sublime Text 2 only. The particular c
 * In Sublime Text 2, go to Preferences > Settings - User
 * Add the line
 {
-  "color_scheme": "Packages/Color Scheme - Default/roominarles.tmTheme",
+  "color_scheme": "Packages/Color Scheme - Default/bedroominarles.tmTheme",
 }
 
 ## License
