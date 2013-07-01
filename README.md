@@ -11,6 +11,13 @@ The particular color scheme works with Sublime Text 2. It hasn't been tested wit
 
 The following instructions have to do with Sublime Text 2 only. The particular color scheme has *not* been tested in other versions of ST.
 
+## Preview
+![Preview 1](https://github.com/p0rcupine/Bedroom-in-Arles/blob/master/preview/Bedroom%20in%20Arles%20-%20Perview%201.jpg)
+
+![Preview 2](https://github.com/p0rcupine/Bedroom-in-Arles/blob/master/preview/Bedroom%20in%20Arles%20-%20Perview%202.jpg)
+
+![Preview 3](https://github.com/p0rcupine/Bedroom-in-Arles/blob/master/preview/Bedroom%20in%20Arles%20-%20Perview%203.jpg)
+
 ### On a Mac
 * After downloading the color scheme, copy it and go to ~/Library/Application Support/Sublime Text 2/Packages/Color Scheme/Default. Paste the theme in that directory.
 * In Sublime Text 2, go to Preferences > Settings - User
